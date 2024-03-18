@@ -1,0 +1,8 @@
+Introduction to RTOS.
+
+The Real-Time Computing is equivalent to predictable computing.
+
+Real-time deals with guarantees, not with raw speed. Having more Processors, more RAM, faster bus
+interfaces does not make a system real time!
+
+
